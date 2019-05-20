@@ -6,6 +6,9 @@
 trigger:
 - master
 
+variables:
+- group: Standard
+
 jobs:
 
 - job: Windows
